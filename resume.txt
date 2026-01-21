@@ -1,0 +1,14 @@
+Dinesh S
+Backend Developer
+
+Professional Summary:
+Backend developer with 3.5 years of experience in building scalable systems.
+
+Skills:
+Python, FastAPI, Flask, AWS, MongoDB, SQL
+
+Experience:
+Worked on multiple backend projects involving REST APIs and database design.
+
+Education:
+Bachelor of Technology in Computer Science
